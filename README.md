@@ -1,4 +1,4 @@
-# Hero
+# Hero - v1.0.0
 
 ## Terceiro desafio do curso de Logica de Programação da DIO - Heroi
  
